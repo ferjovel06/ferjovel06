@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fernanda Jovel</h1>
-<h3 align="center">A passionate frontend developer</h3>
+[![](https://visitcount.itsvg.in/api?id=ferjovel06&label=Eres%20la%20visita%20%23&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+# <img height="60" src="https://media.giphy.com/media/mhYeDw9wEWPGo/giphy.gif"/> ¡Hola Mundo, soy Fernanda!
 
 - 🔭 I’m currently working **as a freelancer for several clients.**
 
