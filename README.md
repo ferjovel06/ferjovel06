@@ -35,7 +35,4 @@
 
 
 
-
-<div align="center>
- <img height="600" align="center" src="https://media3.giphy.com/media/p1aqyY6Y0g9uo/giphy.gif?cid=ecf05e47y8ie5v8sj9dbhi2xwxss4i4kast913ke2a3ivu0c&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</div>
+<img height="600" align="center" src="https://media3.giphy.com/media/p1aqyY6Y0g9uo/giphy.gif?cid=ecf05e47y8ie5v8sj9dbhi2xwxss4i4kast913ke2a3ivu0c&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
