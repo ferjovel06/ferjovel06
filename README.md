@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=ferjovel06&label=Eres%20la%20visita%20%23&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-# <img height="60" src="https://media.giphy.com/media/mhYeDw9wEWPGo/giphy.gif"/> ¡Hola Mundo, soy Fernanda!
+# <img height="60" src="https://media1.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47d2efm4w9yfc3d6y16iicfmrgwaukn5k2e22asjob&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> ¡Hola Mundo, soy Fernanda!
 
 - 🔭 I’m currently working **as a freelancer for several clients.**
 
