@@ -21,7 +21,7 @@
  <br>
  <br>
 
-# <img height="40" src="https://media2.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif?cid=ecf05e47d2efm4w9yfc3d6y16iicfmrgwaukn5k2e22asjob&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> Ask me about:
+# <img height="40" src="https://media4.giphy.com/media/3o6ZtfPqhS8PwCqp1e/giphy.gif?cid=ecf05e47j1oj4bz5u7i19184jbh0rcizj98pntmnomzm3ukm&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> Ask me about:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 <br>
 # <img height="60" src="https://media.giphy.com/media/7sMTyko6HJiCOFmvSm/giphy.gif"/> GitHub Stats:
