@@ -11,7 +11,7 @@
  <br>
  <br>
  # <img height="30" src="https://media.giphy.com/media/DgHkIp2RZVLfW/giphy.gif"/> Sobre mí:
-👯 **Busco colaborar en** proyectos creativos, videojuegos y Machine Learning
+👯 **Busco colaborar en** proyectos creativos de desarrollo web
 <br>
 🌱 **Actualmente aprendiendo** django y React.js
 <br>
