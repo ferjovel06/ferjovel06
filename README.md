@@ -25,12 +25,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferjovel06&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferjovel06&theme=radical&hide_border=true)
 
-[![](https://visitcount.itsvg.in/api?id=joshuaFrias95&label=Eres%20la%20visita%20%23&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ferjovel06&label=Eres%20la%20visita%20%23&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 # <img height="60" src="https://media.giphy.com/media/mhYeDw9wEWPGo/giphy.gif"/> ¡Hola Mundo, soy Joshua!
 <img align="left" height="450" src="https://media.giphy.com/media/3o7TKtDXJ48AogQxBC/giphy.gif" />
 <br>
 
- 🇲🇽 Artista multimedial en constante formación, diseñador y ahora parte del Grupo 5 del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. ME interesan temas de robotica, Machine learning, sintesis de imagen, instalación artística en Web y tecnologías Back-end.
+🇳🇮 Estudiante de Ingenieria Cibernetica Electronica en la Universidad Tecnologica La Salle, desarrolladora Front-End y ahora parte del Grupo 5 del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de robotica, Machine learning, instalación artística en Web y tecnologías Back-end.
  <br>
  <br>
  <a target="_blank" href="https://www.linkedin.com/in/joshua-fr%C3%ADas/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
