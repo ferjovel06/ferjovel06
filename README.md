@@ -1,12 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=ferjovel06&label=Eres%20la%20visita%20%23&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 # <img height="60" src="https://media1.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47d2efm4w9yfc3d6y16iicfmrgwaukn5k2e22asjob&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> ¡Hola, soy Fernanda!
 
+<a href="https://www.linkedin.com/in/maria-fernanda-jovel/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <br>
 
 🇳🇮 Estudiante de Ingenieria Cibernetica Electronica en la Universidad Tecnologica La Salle, desarrolladora Front-End y ahora parte del Grupo 5 del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de robotica, Machine learning, instalación artística en Web y tecnologías Back-end.
  <br>
  <br>
- <a target="_blank" href="https://www.linkedin.com/in/maria-fernanda-jovel/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:fermajobe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
  <br>
  <br>
