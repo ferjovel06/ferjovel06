@@ -23,7 +23,7 @@
  <br>
  <br>
  
-# <img height="60" src="https://media1.giphy.com/media/CTVeABG6VtkwNh5ffp/giphy.gif?cid=ecf05e4716m41lbmtl2a3m5b4asj5t5lr57no6c0fp4m4n6f&ep=v1_gifs_related&rid=giphy.gif&ct=g"/> GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ferjovel06&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferjovel06&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferjovel06&theme=radical&hide_border=true)
@@ -34,7 +34,7 @@
 
 
 
-### Now Playing 🎧
+## Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ferchu9286&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f051c6&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ferchu9286&redirect=true)
 ---
