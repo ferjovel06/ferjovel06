@@ -8,8 +8,6 @@
 🇳🇮 Estudiante de Ingenieria Cibernetica Electronica en la Universidad Tecnologica La Salle, desarrolladora Front-End y ahora parte del Grupo 5 del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de robotica, Machine learning, instalación artística en Web y tecnologías Back-end.
  <br>
  <br>
- <br>
- <br>
  # <img height="30" src="https://media.giphy.com/media/DgHkIp2RZVLfW/giphy.gif"/> Sobre mí:
 👯 **Busco colaborar en** proyectos creativos de desarrollo web
 <br>
