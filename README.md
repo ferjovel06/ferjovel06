@@ -34,4 +34,8 @@
 
 
 
-<img height="600" align="center" src="https://media3.giphy.com/media/p1aqyY6Y0g9uo/giphy.gif?cid=ecf05e47y8ie5v8sj9dbhi2xwxss4i4kast913ke2a3ivu0c&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/ferchu9286)
+<br/>
+---
