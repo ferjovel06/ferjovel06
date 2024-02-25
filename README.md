@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/ferjovel06/" target="_blank"><img align="left" alt="Fer Jovel | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <br>
 
-🇳🇮 Estudiante de Ingenieria Cibernetica Electronica en la Universidad Tecnologica La Salle, desarrolladora Front-End y ahora parte del Grupo 5 del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de robotica, Machine learning, instalación artística en Web y tecnologías Back-end.
+🇳🇮 Estudiante de Ingenieria Cibernetica Electronica en la Universidad Tecnologica La Salle, desarrolladora Front-End y ahora parte del AlumniOne del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de electronica, Machine Learning, Ciencia de datos y tecnologías Back-end.
  <br>
  <br>
  # <img height="40" src="https://media4.giphy.com/media/3o6ZtfPqhS8PwCqp1e/giphy.gif?cid=ecf05e47j1oj4bz5u7i19184jbh0rcizj98pntmnomzm3ukm&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> Sobre mí:
