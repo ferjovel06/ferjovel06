@@ -25,7 +25,7 @@
  
 # Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ferchu9286&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f051c6&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ferchu9286&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ferchu9286&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ---
  
  <br>
