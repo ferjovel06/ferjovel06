@@ -2,7 +2,7 @@
 # <img height="60" src="https://media1.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47d2efm4w9yfc3d6y16iicfmrgwaukn5k2e22asjob&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> ¡Hola, soy Fernanda!
 
 <a href="https://www.linkedin.com/in/maria-fernanda-jovel/" target="_blank"><img align="left" alt="Fer Jovel | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/ferjovel06/" target="_blank"><img align="left" alt="Fer Jovel | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.discordapp.com/users/834946338097463348" target="_blank"><img align="left" alt="Fer Jovel | Discord" width="22px" src="" />
 <br>
 
 🇳🇮 Estudiante de Ingenieria Cibernetica Electronica en la Universidad Tecnologica La Salle, desarrolladora Back-End y ahora parte del AlumniOne del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de electronica, Machine Learning, Ciencia de datos y desarrollo web.
