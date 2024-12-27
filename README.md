@@ -5,7 +5,7 @@
 <a href="https://www.discordapp.com/users/834946338097463348" target="_blank"><img align="left" alt="Fer Jovel | Discord" width="22px" src="https://github.com/ferjovel06/ferjovel06/blob/main/assets/discord.png" />
 <br>
 
-🇳🇮 Estudiante de Ingenieria Cibernetica Electronica en la Universidad Tecnologica La Salle, desarrolladora Back-End y ahora parte del AlumniOne del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de electronica, Machine Learning, Ciencia de datos y desarrollo web.
+🇳🇮 Estudiante de Ingenieria Cibernetica Electronica en la Universidad Tecnologica La Salle, desarrolladora Back-End y Alumni del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de electronica, Machine Learning, Ciencia de datos y desarrollo web.
  <br>
  <br>
  # <img height="40" src="https://media4.giphy.com/media/3o6ZtfPqhS8PwCqp1e/giphy.gif?cid=ecf05e47j1oj4bz5u7i19184jbh0rcizj98pntmnomzm3ukm&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> Sobre mí:
@@ -14,8 +14,22 @@
 🌱 **Actualmente aprendiendo** analisis de datos en Python y Trading Algoritmico
 <br>
 
-# ⚒️Tech Stack:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 🌐 &nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- 🛢 &nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
  
  <br>
  
