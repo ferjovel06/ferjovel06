@@ -4,10 +4,6 @@
 <a href="https://www.linkedin.com/in/maria-fernanda-jovel/" target="_blank"><img align="left" alt="Fer Jovel | LinkedIn" width="22px" src="https://github.com/ferjovel06/ferjovel06/blob/main/assets/linkedin.png" />
 <a href="https://www.discordapp.com/users/834946338097463348" target="_blank"><img align="left" alt="Fer Jovel | Discord" width="22px" src="https://github.com/ferjovel06/ferjovel06/blob/main/assets/discord.png" />
 <br>
-
-🇳🇮 Estudiante de Ingenieria Cibernetica Electronica en la Universidad Tecnologica La Salle, desarrolladora Back-End y Alumni del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de electronica, Machine Learning, Ciencia de datos y desarrollo web.
- <br>
- <br>
  # <img height="40" src="https://media4.giphy.com/media/3o6ZtfPqhS8PwCqp1e/giphy.gif?cid=ecf05e47j1oj4bz5u7i19184jbh0rcizj98pntmnomzm3ukm&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -17,7 +13,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
