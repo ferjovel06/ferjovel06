@@ -8,7 +8,7 @@
 🇳🇮 Estudiante de Ingenieria Cibernetica Electronica en la Universidad Tecnologica La Salle, desarrolladora Back-End y Alumni del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de electronica, Machine Learning, Ciencia de datos y desarrollo web.
  <br>
  <br>
- # <img height="40" src="https://media4.giphy.com/media/3o6ZtfPqhS8PwCqp1e/giphy.gif?cid=ecf05e47j1oj4bz5u7i19184jbh0rcizj98pntmnomzm3ukm&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+ # <img height="40" src="https://media4.giphy.com/media/3o6ZtfPqhS8PwCqp1e/giphy.gif?cid=ecf05e47j1oj4bz5u7i19184jbh0rcizj98pntmnomzm3ukm&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Cybernetic Electronic Engineering at La Salle Technological University.
