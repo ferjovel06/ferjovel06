@@ -26,9 +26,12 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
- 
+ ---
  <br>
- 
+  
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ferjovel06&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferjovel06&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
  
 # Now Playing 🎧
 
@@ -36,10 +39,7 @@
 ---
  
  <br>
- 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ferjovel06&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferjovel06&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferjovel06&theme=radical&hide_border=true)
 
 
