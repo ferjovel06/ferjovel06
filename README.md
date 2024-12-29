@@ -26,17 +26,15 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
- ---
- <br>
-  
+
 # GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=ferjovel06&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferjovel06&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ferjovel06&theme=radical&hide_border=true)
- 
+
+
 # Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ferchu9286&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=d83b7d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
- 
- <br>
