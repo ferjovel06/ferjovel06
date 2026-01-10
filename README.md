@@ -3,7 +3,14 @@
 
 <a href="https://www.linkedin.com/in/maria-fernanda-jovel/" target="_blank"><img align="left" alt="Fer Jovel | LinkedIn" width="22px" src="https://github.com/ferjovel06/ferjovel06/blob/main/assets/linkedin.png" />
 <a href="https://www.discordapp.com/users/834946338097463348" target="_blank"><img align="left" alt="Fer Jovel | Discord" width="22px" src="https://github.com/ferjovel06/ferjovel06/blob/main/assets/discord.png" />
-<br>
+<br><br>
+
+<p align="center">
+  <a href="https://drive.google.com/drive/u/1/folders/1MhpRjCVIioxw40Y413n3Rtc99bdK8KZD" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_My_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/>
+  </a>
+</p>
+
  # <img height="40" src="https://media4.giphy.com/media/3o6ZtfPqhS8PwCqp1e/giphy.gif?cid=ecf05e47j1oj4bz5u7i19184jbh0rcizj98pntmnomzm3ukm&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
