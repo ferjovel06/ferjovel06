@@ -42,8 +42,8 @@ My favorite kind of challenge is making hardware and software work together.
     </td>
     <td width="50%" valign="top">
       <h3>🧩 RCIU-Score</h3>
-      <p>A research reference calculator with versioned scoring definitions and server-side calculation.</p>
-      <p><b>My work:</b> translating the supplied scoring model into an application with validation, persistence, and software tests.</p>
+      <p>A research application that implements the ARAGON-FGR scoring rules for assessing fetal growth restriction risk from maternal factors.</p>
+      <p><b>My work:</b> translating the supplied research model into a React/TypeScript application, with versioned scoring rules, server-side validation and calculation, assessment storage, and software tests.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Supabase</code></p>
       <p><a href="https://github.com/ferjovel06/RCIU-Score">Explore RCIU-Score →</a></p>
     </td>
