@@ -1,42 +1,103 @@
-[![](https://visitcount.itsvg.in/api?id=ferjovel06&label=Eres%20la%20visita%20%23&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-# <img height="60" src="https://media1.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47d2efm4w9yfc3d6y16iicfmrgwaukn5k2e22asjob&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> Hey there! I'm Fernanda.
-
-<a href="https://www.linkedin.com/in/maria-fernanda-jovel/" target="_blank"><img align="left" alt="Fer Jovel | LinkedIn" width="22px" src="https://github.com/ferjovel06/ferjovel06/blob/main/assets/linkedin.png" />
-<a href="https://www.discordapp.com/users/834946338097463348" target="_blank"><img align="left" alt="Fer Jovel | Discord" width="22px" src="https://github.com/ferjovel06/ferjovel06/blob/main/assets/discord.png" />
-<br><br>
-
 <p align="center">
-  <a href="https://drive.google.com/drive/u/1/folders/1MhpRjCVIioxw40Y413n3Rtc99bdK8KZD" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Download_My_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV"/>
-  </a>
+  <img src="./assets/banner-visual.svg" width="100%" alt="Fernanda Jovel — software, electronics, and a growing interest in AI" />
 </p>
 
- # <img height="40" src="https://media4.giphy.com/media/3o6ZtfPqhS8PwCqp1e/giphy.gif?cid=ecf05e47j1oj4bz5u7i19184jbh0rcizj98pntmnomzm3ukm&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/maria-fernanda-jovel/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-7C6CF2?style=for-the-badge" alt="Connect with Fernanda on LinkedIn" /></a>
+  <a href="https://drive.google.com/drive/u/1/folders/1MhpRjCVIioxw40Y413n3Rtc99bdK8KZD"><img src="https://img.shields.io/badge/CV-View-26324A?style=for-the-badge" alt="View my CV" /></a>
+</p>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Cybernetic Electronic Engineering at La Salle Technological University.
-- 🌱 &nbsp; Learning more about Data Analysis, Algorithmic Trading and Artificial Intelligence.
+## Hey, I'm Fernanda 👋
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+I build applications and electronics prototypes that connect **software, data, and the physical world**. I'm studying Cybernetic Electronics Engineering at **Universidad Tecnológica La Salle, Nicaragua**, and learning **AI and data science through GCI World**.
 
-- 💻 &nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-- 🌐 &nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-- 🛢 &nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=codecrafters&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains&logoColor=ffffff)
+My favorite kind of challenge is making hardware and software work together.
 
+## ✨ Selected work
 
-# GitHub Stats:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💧 Water quality monitor</h3>
+      <p>An irrigation water monitoring prototype that measures pH, temperature, and dissolved solids, with automatic pump control and a live dashboard.</p>
+      <p><b>My work:</b> ESP32 firmware, MQTT integration, and the Django dashboard. Challenges included correcting temperature-compensated EC-to-TDS conversion and working toward more stable readings from low-cost sensors.</p>
+      <p><code>ESP32</code> <code>C++</code> <code>Django</code> <code>MQTT</code></p>
+      <p><a href="https://github.com/ferjovel06/water-quality-dashboard">Dashboard →</a> · <a href="https://github.com/ferjovel06/water-quality-firmware">Firmware →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 Agrifos</h3>
+      <p>Agricultural software for soil diagnostics and fertilization planning.</p>
+      <p><b>My work:</b> implementing the application and backend, including sensor data, access permissions, and agronomic calculation rules.</p>
+      <p><code>Flutter</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
+      <p><a href="https://github.com/ferjovel06/Agrifos-Pre-Hackathon">Explore Agrifos →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐝 Quibee</h3>
+      <p>An educational desktop app with interactive lessons, exercises, and local progress tracking.</p>
+      <p><b>My work:</b> implementing the interface, lesson interactions, and data persistence.</p>
+      <p><code>C#</code> <code>Avalonia</code> <code>SQLite</code></p>
+      <p><a href="https://github.com/ferjovel06/Quibee">Explore Quibee →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 RCIU-Score</h3>
+      <p>A research reference calculator with versioned scoring definitions and server-side calculation.</p>
+      <p><b>My work:</b> translating the supplied scoring model into an application with validation, persistence, and software tests.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Supabase</code></p>
+      <p><a href="https://github.com/ferjovel06/RCIU-Score">Explore RCIU-Score →</a></p>
+    </td>
+  </tr>
+</table>
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ferjovel06&show_icons=true&theme=dracula)
+<sub>For Agrifos, Quibee, and RCIU-Score, my contribution is the software implementation; research and domain content were provided by collaborators.</sub>
+
+## 🛠 What I build with
+
+**Backend & data**
+
+![Python](https://img.shields.io/badge/Python-26324A?style=flat-square&logo=python&logoColor=FFD166) ![Django](https://img.shields.io/badge/Django-26324A?style=flat-square&logo=django&logoColor=77DCC1) ![FastAPI](https://img.shields.io/badge/FastAPI-26324A?style=flat-square&logo=fastapi&logoColor=77DCC1) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-26324A?style=flat-square&logo=postgresql&logoColor=9EBBFF)
+
+**Apps & interfaces**
+
+![C Sharp](https://img.shields.io/badge/C%23-26324A?style=flat-square) ![Flutter](https://img.shields.io/badge/Flutter-26324A?style=flat-square&logo=flutter&logoColor=9EBBFF) ![React](https://img.shields.io/badge/React-26324A?style=flat-square&logo=react&logoColor=9EBBFF) ![TypeScript](https://img.shields.io/badge/TypeScript-26324A?style=flat-square&logo=typescript&logoColor=9EBBFF)
+
+**Hardware & environment**
+
+![C](https://img.shields.io/badge/C-26324A?style=flat-square&logo=c&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-26324A?style=flat-square&logo=espressif&logoColor=FF9DB4) ![MQTT](https://img.shields.io/badge/MQTT-26324A?style=flat-square&logo=mqtt&logoColor=C4B5FD) ![Linux](https://img.shields.io/badge/Linux-26324A?style=flat-square&logo=linux&logoColor=FFD166)
+
+<details>
+  <summary>More tools I've used</summary>
+
+  Java · Spring Boot · JavaScript · HTML/CSS · MySQL · SQLite · Git · Arduino · NixOS
+
+</details>
+
+## 🌱 Currently learning
+
+At GCI World, I'm working with **NumPy, pandas, Matplotlib, and scikit-learn**, practicing data analysis, classification, cross-validation, and model evaluation.
+
+I want to bring that learning into applications that work with real-world data, including data from sensors.
+
+## 🌎 Beyond the code
+
+- **Erasmus exchange:** HSBI, Bielefeld, Germany.
+- **SUSI for Young Women Leaders:** University of Arizona, USA.
+- **National Hackathon Nicaragua 2022:** regional phase winner with my team.
+- **National Hackathon Nicaragua 2026:** building Agrifos for the upcoming competition.
+- **Languages:** Spanish and English.
+
+## 📊 GitHub activity
+
+<p align="center">
+  <a href="https://github.com/ferjovel06?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api?username=ferjovel06&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=C9D1D9&amp;icon_color=77DCC1&amp;border_radius=12" height="165" alt="Fernanda's GitHub activity statistics" /></a>
+  <a href="https://github.com/ferjovel06?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ferjovel06&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=C9D1D9&amp;border_radius=12" height="165" alt="Languages represented in Fernanda's public repositories" /></a>
+</p>
+
+<p align="center"><a href="https://github.com/ferjovel06?tab=overview">Explore my contributions →</a></p>
+
+<p align="center"><sub>Software · electronics · learning AI</sub></p>
 
 ---
+
+**Let's build something useful.** [Find me on LinkedIn →](https://www.linkedin.com/in/maria-fernanda-jovel/)
