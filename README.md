@@ -94,8 +94,6 @@ I want to bring that learning into applications that work with real-world data, 
   <a href="https://github.com/ferjovel06?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ferjovel06&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=C9D1D9&amp;border_radius=12" height="165" alt="Languages represented in Fernanda's public repositories" /></a>
 </p>
 
-<p align="center"><a href="https://github.com/ferjovel06?tab=overview">Explore my contributions →</a></p>
-
 <p align="center"><sub>Software · electronics · learning AI</sub></p>
 
 ---
